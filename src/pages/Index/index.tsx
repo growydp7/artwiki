@@ -1,5 +1,5 @@
 import { FC } from 'react'
-import Banner from './components/banner'
+import Banner from './components/banner/banner'
 
 const Index: FC = () => {
   return (

@@ -1,4 +1,5 @@
 import { Carousel } from 'antd'
+import './index.scss'
 
 const Banner = () => {
   return <div>
